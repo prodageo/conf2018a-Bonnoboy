@@ -2,11 +2,11 @@
 
 ## Cartouche d'identification
 
- - Manifestation : CodeursEnSeine 2017
- - Lieu : Université de Rouen - site du Madrillet
- - Conférence : ...
- - Horaire de la conférence : ...
- - Durée de la conférence : ...
+ - Manifestation : CodeursEnSeine 2018
+ - Lieu : Kindarena - Rouen
+ - Conférence : Détectez et trackez les vulnérabilités qui se cachent dans vos dépendances 
+ - Horaire de la conférence : 12h
+ - Durée de la conférence : 15min
  - Conférencier(s) :
    - ... (lien vers au moins un réseau social : LinkedIn, Twitter, site personnel, ...)
    - ...
