@@ -12,7 +12,7 @@
  - Audience : 200 personnes
  - Auteur du billet : Matthieu Bonnoron
  - Mots-clés : DEPENDENCY-CHECK / DEPENDENCY-TRACK
- - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
+ - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](Dependency.png)
    - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
 
 ## Support
